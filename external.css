@@ -1,0 +1,19 @@
+
+.heading1{
+    background-color: antiquewhite;
+    text-decoration: overline;
+}
+.head2{
+    color: tomato;
+    font-size: medium;
+    font-style: italic;
+    text-decoration: line-through;
+}
+.heading2{
+    color:black;
+    font-size: large;
+word-spacing: 20px;
+letter-spacing: normal;
+    text-decoration-color: purple;
+    text-shadow: 3px 4px 5px blue;
+}
