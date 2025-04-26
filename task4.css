@@ -1,0 +1,14 @@
+.parent{
+    background-color: gray;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+    }
+    .parent .ch1 button{
+        padding: 10px;
+        background-color: green;
+        color: white;
+      
+    }
+

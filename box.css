@@ -11,6 +11,7 @@
     color: brown;
     border-radius: 90px;
     margin-top: 10px;
-    border: 6px dashed black;
+    border: 4px dotted black;
+    box-shadow: 40px;
     padding: 20px;
 }

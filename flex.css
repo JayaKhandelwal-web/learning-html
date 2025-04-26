@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main{
+    background-color: plum;
+   height: 20px;
+    width: 20px;
+    border: 2px solid black;
+}
