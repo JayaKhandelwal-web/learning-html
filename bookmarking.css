@@ -1,0 +1,8 @@
+.head
+{  
+    padding: 20px;
+    color: blue;
+}
+html{
+    scroll-behavior: smooth;
+}

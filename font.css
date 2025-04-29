@@ -1,0 +1,14 @@
+.head{
+font-family: "Zilla Slab", serif;
+}
+.wrapper{
+    background-color: aquamarine;
+    height: 400px;
+}
+.ch1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    top: 30px;
+}
